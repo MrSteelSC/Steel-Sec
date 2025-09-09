@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/512/external-cyber-security-cyber-security-flatart-icons-outline-flatarticons.png" width="120" alt="Steel-Sec Logo"/>
+  <img src="./steel-sec-logo.png" alt="Steel-Sec Logo" width="200" width="120" alt="Steel-Sec Logo"/>
 </p>
 
 <h1 align="center">🛡️ Steel-Sec</h1>
