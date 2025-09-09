@@ -1,18 +1,29 @@
-# 🛡️ Steel-Sec
+<p align="center">
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/512/external-cyber-security-cyber-security-flatart-icons-outline-flatarticons.png" width="120" alt="Steel-Sec Logo"/>
+</p>
 
-**Practical notes, tools, and checklists for modern cybersecurity.**
+<h1 align="center">🛡️ Steel-Sec</h1>
+<p align="center">
+  Practical notes, tools, and checklists for modern cybersecurity.  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CEH-candidate-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/area-cybersecurity-red?style=for-the-badge" />
+</p>
 
 ---
 
-## Overview
+## 🔎 Overview
 I’m **Steel**, a cybersecurity specialist focused on:
-- **Risk & Vulnerability Management**
-- **Penetration Testing**
-- **Incident Response (IR)**
-- **Digital Forensics (DFIR)**
+- Risk & Vulnerability Management  
+- Penetration Testing  
+- Incident Response (IR)  
+- Digital Forensics (DFIR)  
 
-This repo collects field-tested workflows, concise notes, and small utilities to help secure modern systems.  
-**CEH candidate.**
+This repo collects **field-tested workflows, concise notes, and utilities** to help secure modern systems.  
 
 ---
 
@@ -29,18 +40,6 @@ This repo collects field-tested workflows, concise notes, and small utilities to
 
 ### 🔹 Resources
 - [Cheatsheets](./resources/cheatsheets.md) — quick reference for Nmap, Linux, Windows, and hashing.
-
----
-
-*“Strong defense is built on clear process and continuous learning.”*
-
-
-----------------
-
-
-# 🛡️ Steel-Sec (TR)
-
-**Modern siber güvenlik için pratik notlar, araçlar ve kontrol listeleri.**
 
 ---
 
@@ -64,4 +63,27 @@ This repo collects field-tested workflows, concise notes, and small utilities to
 
 ---
 
-*“Güçlü savunma, net süreçler ve sürekli öğrenme üzerine inşa edilir.”*
+## 🛠️ Tools I Use
+`BurpSuite Pro/Enterprise` · `Nessus` · `Invicti (Netsparker)` · `OWASP ZAP` · `Nmap`  
+`Wireshark` · `Volatility` · `IDA` · `PEstudio` · `Cuckoo Sandbox` · `Symantec Sandbox`  
+`MobSF` · `VirusTotal` · `Hybrid Analysis`
+
+---
+
+## 🧩 Repo Structure
+/ir/ # incident response playbooks & checklists
+/pentest/ # nmap profiles & pentest notes
+/dfir/ # forensic acquisition notes
+/resources/ # cheat sheets & quick references
+
+
+---
+
+## 📝 License
+This project is licensed under the **MIT License** — free to use with attribution.  
+
+---
+
+<p align="center">
+⚔️ <i>“Strong defense is built on clear process and continuous learning.”</i>
+</p>
