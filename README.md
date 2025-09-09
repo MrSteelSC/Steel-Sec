@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="./steel-sec-logo.png" alt="Steel-Sec Logo" width="200"/>
-</p>
-
-
-
 # 🛡️ Steel-Sec
 
 **Practical notes, tools, and checklists for modern cybersecurity.**
