@@ -1,50 +1,67 @@
-# 🛡️ Steel-Sec  
+# 🛡️ Steel-Sec
 
-**Building a fortress in the digital battlefield.**  
-
----
-
-## 👋 Welcome
-Hi, I’m **Steel** – a cybersecurity specialist with experience in:  
-- Risk & Vulnerability Management  
-- Penetration Testing  
-- Incident Response (IR)  
-- Digital Forensics (DFIR)  
-
-This repository is my personal space to share notes, tools, and tactics I use in the fight against cyber threats.  
+**Practical notes, tools, and checklists for modern cybersecurity.**
 
 ---
 
-## 🚀 What You’ll Find Here
-- 📂 **Incident Response Checklists** – practical steps for handling security incidents  
-- 🔎 **Pentest Scripts & Notes** – Nmap, BurpSuite, Nessus, OWASP Zap examples  
-- 🐞 **Malware Analysis Notes** – sandbox experiments, reverse engineering basics  
-- 🛡️ **Security Resources** – cheat sheets, toolkits, and learning materials  
+## Overview
+I’m **Steel**, a cybersecurity specialist focused on:
+- **Risk & Vulnerability Management**
+- **Penetration Testing**
+- **Incident Response (IR)**
+- **Digital Forensics (DFIR)**
+
+This repo collects field-tested workflows, concise notes, and small utilities to help secure modern systems.  
+**CEH candidate.**
 
 ---
 
-## 🛠️ Tools I Often Use
-- BurpSuite Pro / Enterprise  
-- Nessus, Invicti360  
-- Wireshark, Nmap  
-- Volatility, IDA, Pestudio, Debuggers  
-- MobSF, Cuckoo Sandbox, Symantec Sandbox  
+## 📑 Table of Contents (EN)
+
+### 🔹 Incident Response
+- [Triage Checklist](./ir/triage-checklist.md) — step-by-step guide for quick containment & evidence handling.
+
+### 🔹 Pentesting
+- [Nmap Profiles](./pentest/nmap-profiles.md) — handy Nmap scan commands & templates.
+
+### 🔹 Digital Forensics (DFIR)
+- [Memory & Disk Acquisition Notes](./dfir/memory-acq-notes.md) — best practices for forensically sound imaging.
+
+### 🔹 Resources
+- [Cheatsheets](./resources/cheatsheets.md) — quick reference for Nmap, Linux, Windows, and hashing.
 
 ---
 
-## 📖 Purpose
-This repo is not about publishing exploits or harmful code.  
-It’s a **personal knowledge base** for:  
-- Practicing cybersecurity  
-- Sharing safe & educational content  
-- Documenting my journey in the field  
+*“Strong defense is built on clear process and continuous learning.”*
+
+
+----------------
+
+
+# 🛡️ Steel-Sec (TR)
+
+**Modern siber güvenlik için pratik notlar, araçlar ve kontrol listeleri.**
 
 ---
 
-## 🌍 Connect with Me
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- [GitHub](https://github.com/srsteel)  
+## 📑 İçindekiler (TR)
+
+### 🔹 Olay Müdahale
+- [Triage Checklist](./ir/triage-checklist.md)  
+  Hızlı izolasyon ve delil toplama rehberi.
+
+### 🔹 Penetrasyon Testi
+- [Nmap Profilleri](./pentest/nmap-profiles.md)  
+  Yaygın Nmap komutları ve tarama şablonları.
+
+### 🔹 Adli Bilişim (DFIR)
+- [Bellek & Disk Alma Notları](./dfir/memory-acq-notes.md)  
+  Geçici ve kalıcı verilerin adli uygun şekilde alınması.
+
+### 🔹 Kaynaklar
+- [Cheat Sheet](./resources/cheatsheets.md)  
+  Nmap, Linux, Windows ve hash komutları için hızlı referans.
 
 ---
 
-⚔️ *“In cyberspace, defense is built with knowledge and discipline.”*  
+*“Güçlü savunma, net süreçler ve sürekli öğrenme üzerine inşa edilir.”*
